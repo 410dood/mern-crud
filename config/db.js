@@ -4,3 +4,7 @@
 module.exports = {
   db: process.env.DB
 };
+
+// module.exports = {
+//   db: 'mongodb://localhost/mern-crud'
+// };
